@@ -23,3 +23,13 @@ add caption token to train the model.
 
 > **Dataset**
 For training our model I’m using [Flickr8K](https://www.kaggle.com/shadabhussain/flickr8k) dataset. It consists of 8000 unique images and each image will be mapped to five different sentences which will describe the image.
+
+## *Requirement*
+		keras==2.4.3 
+		pillow==7.1.2
+		numpy==1.18.1
+		pandas==1.1.4
+		tqdm==4.47.0 
+		tensorflow==2.3.1 
+		jupyterlab==2.2.2
+		django==3.1.0
